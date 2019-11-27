@@ -2,9 +2,8 @@
 This provides a code for coding logistic regression from scratch.
 This loss function gives rise to the ordinary least squares regression model. Our goal is to minimize this loss function;
 
-\begin{equation}
-\underset{\theta}{\min} \, \ell(\theta) = \dfrac{1}{2}\sum_{i=1}^{n}\big(h_{\theta} (x_{i})- y_{i}\big) ^{2} 
-\end{equation}
+
+$\underset{\theta}{\min} \, \ell(\theta) = \dfrac{1}{2}\sum_{i=1}^{n}\big(h_{\theta} (x_{i})- y_{i}\big) ^{2}$
 
 
 
